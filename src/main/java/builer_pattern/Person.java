@@ -31,7 +31,6 @@ public class Person {
                 .withName("Alex")
                 .withSurname("Gray")
                 .buid();
-
         System.out.println(person.surname);
         System.out.println(person.name);
     }
